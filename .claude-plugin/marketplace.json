@@ -1,7 +1,7 @@
 {
-  "name": "diagram-skills",
+  "name": "draw-skills",
   "owner": {
-    "name": "Diagram Skills Team"
+    "name": "draw Skills Team"
   },
   "metadata": {
     "description": "Comprehensive diagram generation skills including charts, architecture diagrams, Mermaid diagrams, and logic diagrams",
@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "diagram-skills",
+      "name": "draw-skills",
       "source": ".",
       "description": "Generate charts (bar, line, pie, scatter, radar, gauge), architecture diagrams, Mermaid diagrams (flowchart, sequence, class), and text-to-logic-diagram converters. Supports SVG/HTML output with dark/light themes.",
       "skills": [
