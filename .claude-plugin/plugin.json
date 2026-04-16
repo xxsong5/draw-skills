@@ -1,0 +1,86 @@
+{
+  "name": "diagram-skills",
+  "description": "Comprehensive diagram and image generation skills including charts, architecture diagrams, Mermaid diagrams, logic diagrams, algorithmic art, and various image generation tools. Supports SVG/HTML output with dark/light themes.",
+  "author": {
+    "name": "Diagram Skills Team",
+    "email": "diagram@example.com"
+  },
+  "license": "MIT",
+  "version": "1.0.0",
+  "skills": [
+    {
+      "name": "chart-craft",
+      "description": "Generate SVG/HTML charts from text descriptions - bar, line, pie, scatter, radar, and more"
+    },
+    {
+      "name": "chart-craft-plus",
+      "description": "Extended chart generation with 35+ chart types across 5 categories"
+    },
+    {
+      "name": "mermaid-generator",
+      "description": "Generate Mermaid diagrams - flowcharts, sequence diagrams, class diagrams"
+    },
+    {
+      "name": "architecture-diagram-zh",
+      "description": "Create architecture diagrams with SVG support for dark/light themes"
+    },
+    {
+      "name": "text-logic-diagram",
+      "description": "Convert text descriptions to logic diagrams with theme support"
+    },
+    {
+      "name": "algorithmic-art",
+      "description": "Generate algorithmic art and creative visuals"
+    },
+    {
+      "name": "canvas-design",
+      "description": "Canvas-based design and drawing"
+    },
+    {
+      "name": "gemini-image",
+      "description": "Image generation powered by Gemini"
+    },
+    {
+      "name": "baoyu-image-gen",
+      "description": "General image generation"
+    },
+    {
+      "name": "baoyu-cover-image",
+      "description": "Cover image generation"
+    },
+    {
+      "name": "baoyu-infographic",
+      "description": "Infographic generation"
+    },
+    {
+      "name": "baoyu-xhs-images",
+      "description": "Xiaohongshu image generation"
+    },
+    {
+      "name": "article-batch-illustration",
+      "description": "Batch illustration for articles"
+    },
+    {
+      "name": "baoyu-article-illustrator",
+      "description": "Article illustration with multiple styles"
+    },
+    {
+      "name": "logo-batch-generator",
+      "description": "Batch logo generation"
+    },
+    {
+      "name": "markdown-to-image",
+      "description": "Convert markdown to images"
+    },
+    {
+      "name": "image-skill-builder",
+      "description": "Build custom image generation skills"
+    },
+    {
+      "name": "storyboard-generator",
+      "description": "Generate storyboards"
+    }
+  ],
+  "tags": ["diagram", "chart", "visualization", "mermaid", "architecture", "svg", "image", "art", "canvas", "logo", "infographic"],
+  "categories": ["productivity", "developer-tools"]
+}
