@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "draw-skills",
-      "source": ".",
+      "source": "./",
       "description": "Generate charts (bar, line, pie, scatter, radar, gauge), architecture diagrams, Mermaid diagrams (flowchart, sequence, class), and text-to-logic-diagram converters. Supports SVG/HTML output with dark/light themes.",
       "skills": [
           "./skills/chart-craft",
